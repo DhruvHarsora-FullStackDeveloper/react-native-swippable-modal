@@ -1,4 +1,4 @@
-import { Dimensions } from 'react-native';
+import { Dimensions, Platform } from 'react-native';
 
 export const { width: windowWidth, height: windowHeight } =
   Dimensions.get('window');
@@ -72,4 +72,8 @@ export const moderateScale = (
     changeSize +
     (horizontalScale(changeSize, skipAspectRatio) - changeSize) * factor
   );
+};
+
+export const globalMetrics = {
+  isAndroid: Platform.OS === 'android',
 };
