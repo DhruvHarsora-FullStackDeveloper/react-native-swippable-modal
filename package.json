@@ -1,7 +1,7 @@
 {
   "name": "react-native-swippable-modal",
-  "version": "0.0.1",
-  "description": "hj",
+  "version": "1.0.0",
+  "description": "A swippable modal using gesture handler and reanimated with customizable",
   "main": "lib/index",
   "types": "lib/index.d.ts",
   "contributors": [],
@@ -15,7 +15,22 @@
     "react",
     "react-native",
     "typescript",
-    "rn"
+    "rn",
+    "ios",
+    "android",
+    "react-native-swippable-modal",
+    "modal",
+    "reanimated",
+    "gesture",
+    "components",
+    "react-native-swipe-modal",
+    "swipe",
+    "swipe-modal",
+    "react-native-scroll-down-modal",
+    "react-native-scroll-up-down-modal",
+    "react-native-swipe-modal-up-down",
+    "react-native-reanimated-component",
+    "gesture-handler"
   ],
   "license": "MIT",
   "files": [
