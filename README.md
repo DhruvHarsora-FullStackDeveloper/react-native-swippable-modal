@@ -4,9 +4,8 @@
 
 ---
 
-## [![npm version](https://img.shields.io/badge/npm%20package-0.0.1-orange)](https://www.npmjs.org/package/react-native-swippable-modal) [![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://www.android.com) [![iOS](https://img.shields.io/badge/Platform-iOS-green?logo=apple)](https://developer.apple.com/ios) [![MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+[![react-native-swippable-modal on npm](https://img.shields.io/npm/v/react-native-swippable-modal.svg?style=flat)](https://www.npmjs.com/package/react-native-swippable-modal) [![react-native-swippable-modal downloads](https://img.shields.io/npm/dm/react-native-swippable-modal)](https://www.npmtrends.com/react-native-swippable-modal) [![react-native-swippable-modal install size](https://packagephobia.com/badge?p=react-native-swippable-modal)](https://packagephobia.com/result?p=react-native-swippable-modal) [![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://www.android.com) [![iOS](https://img.shields.io/badge/Platform-iOS-green?logo=apple)](https://developer.apple.com/ios) [![MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-<br>
 
 This swippable modal library provides a swipe down modal close feature. Especially same modal contain textInput that too it worked well.
 
